@@ -3,11 +3,11 @@ body{
 }
 h1{
   color: blue;
-  text-align: center;
+  text-align: left;
 }
 .bandera{
   display: block;
-  width: 100%;
+  width: 30%;
   height: 20vh;
 }
 .amarilla{
